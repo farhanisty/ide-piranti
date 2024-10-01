@@ -1,0 +1,45 @@
+*
+{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body
+{
+  font-family: 'Helvatica', 'sans-serif';
+}
+
+h1
+{
+  margin-bottom: .5rem;
+}
+
+.container
+{
+  max-width: 750px;
+  margin: 50px auto;
+}
+
+time 
+{
+  color: #666;
+  margin-bottom: 1rem;
+  display: inline-block;
+}
+
+p 
+{
+  text-align: justify;
+  margin: 1.5rem 0;
+}
+
+.img-wrapper
+{
+  overflow: hidden;
+}
+
+.img-wrapper img
+{
+  width: 100%;
+}
